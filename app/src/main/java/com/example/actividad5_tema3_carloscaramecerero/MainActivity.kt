@@ -1,6 +1,5 @@
 package com.example.actividad5_tema3_carloscaramecerero
 
-import android.app.Application
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast

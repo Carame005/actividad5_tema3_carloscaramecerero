@@ -15,17 +15,16 @@ android {
     namespace = "com.example.actividad5_tema3_carloscaramecerero"
     compileSdk = 36
 
-    defaultConfig {
+            defaultConfig {
             applicationId = "com.example.actividad5_tema3_carloscaramecerero"
-        minSdk = 24
-        targetSdk = 36
-        versionCode = 1
-        versionName = "1.0"
+            minSdk = 21
+            targetSdk = 34
+            versionCode = 1
+            versionName = "1.0"
+        }
 
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
-    }
 
-    buildTypes {
+buildTypes {
         release {
             isMinifyEnabled = false
             proguardFiles(
@@ -57,7 +56,7 @@ android {
     buildFeatures {
         compose = true
     }
-}
+
 
 dependencies {
 
@@ -111,4 +110,5 @@ dependencies {
 
 
 
+}
 }

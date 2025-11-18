@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:249702868590:android:b9cfd46dfaa1a46528e87f",
+        "android_client_info": {
+          "package_name": "actividad5.tema3.CarlosCarameCerero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGIwEGezOQCUef9zUajdYkrlofjyXrIwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:249702868590:android:65cac48d8a4319e228e87f",
         "android_client_info": {
           "package_name": "com.example.actividad5_tema3_carloscaramecerero"
